@@ -1,6 +1,6 @@
 ### Hey 👋, this is Berke Can Kandemir.
 
-I'm a passionate software developer living in Izmir, Turkey, working for Garanti BBVA Technology. I love being part of development of web and mobile technologies. I love open source development and I build things on my GitHub profile (here) when I manage to find some time. I love JavaScript, Swift, Python and Java.
+I'm a passionate software developer living in Izmir, Turkey, working for Garanti BBVA Technology. I love being part of development of web and mobile technologies. I love open source development and I build things on my GitHub profile (here) when I manage to find some time. I love Swift, Python, Java and recently JavaScript.
 
 - 💻 [What am I doing about Open Source? (GitHub, you're already here)](https://github.com/berkekandemir)
 - 🐦 [What do I think? (Twitter)](https://twitter.com/berke_kandemir)
